@@ -43,7 +43,7 @@ document.addEventListener("DOMContentLoaded", function () {
                     arrowOuter.src = "../assets/images/checkmark.svg"; // ✅ Your checkmark icon
                     arrowOuter.style.background = "none";
                     setTimeout(() => {
-                        window.location.href = "https://ivansavchuk7.github.io/beauty_show/finish";
+                        window.location.href = "https://ivansavchuk7.github.io/beauty_show_2/finish";
                     }, 1000);
                     submitBtn.classList.add("submitted");
                 }
