@@ -40,7 +40,7 @@ document.addEventListener("DOMContentLoaded", function () {
 
                     arrowOuter.style.display = "block";
                     loader.style.display = "none";
-                    arrowOuter.src = "../assets/images/checkmark.svg";
+                    arrowOuter.src = "assets/images/checkmark.svg";
                     arrowOuter.style.background = "none";
                     setTimeout(() => {
                         window.location.href = "https://ivansavchuk7.github.io/beauty_show_2/finish/";
