@@ -24,7 +24,7 @@ document.addEventListener("DOMContentLoaded", function () {
 
         const formData = new FormData(form);
 
-        fetch("", {
+        fetch("https://script.google.com/macros/s/AKfycbzogLbouUG0_SAFx7WLzi0ulY4B68W-Pvs8Q41eZJ-JYowyzcqUvdXm2ek7pEUmtd4-/exec", {
             method: "POST",
             body: formData
         })
