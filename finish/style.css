@@ -186,7 +186,7 @@ main .title > div .abs {
     justify-content: center;
     align-items: center;
     gap: 1rem;
-    padding: 1rem 2rem;
+    padding: 2rem 2rem;
     background: #FFE9F1;
     position: relative;
 }
@@ -218,7 +218,7 @@ main .title > div .abs {
 .content > .text .bottom > div span {
     line-height: 130%;
     font-family: 'Fixel Regular', sans-serif;
-    font-size: 1.1rem;
+    font-size: 1.2rem;
 }
 @media only screen and (max-width: 1599px) {
     main {
